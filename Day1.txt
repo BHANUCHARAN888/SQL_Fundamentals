@@ -1,0 +1,15 @@
+Database: A database is an organized collection of data.
+DBMS(Database Management System): Software used to create and manage databases.(MySQL, Oracle DB)
+RDBMS(Relational Database Management System): Table to Table common relation.
+
+Table 1		Table 2	
+ID	NAME	ID	NAME
+01	BHANU	01	CHARAN
+
+PRIMARY KEY: A column that uniquely identifies each row.
+DDL(DATA DEFINITION LANGUAGE): DDL commands used to create, modify, delete database structures
+commands:
+CREATE
+ALTER
+DROP
+TRUNCATE
