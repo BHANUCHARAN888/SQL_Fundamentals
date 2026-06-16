@@ -1,137 +1,143 @@
-# SQL Learning Roadmap & Checklist
+# SQL Roadmap (15 Days)
+
 ## Goal
-Become comfortable writing SQL queries without looking at notes and solve interview-style SQL problems.
+Become comfortable with SQL fundamentals and solve interview-style SQL problems confidently.
+
+**Target:**
+- Complete SQL fundamentals
+- Solve 100+ SQL problems
+- Build strong query-writing skills
+- Prepare for Data Science / AI Engineer interviews
+
+---
+
+## Phase 1: SQL Fundamentals (Days 1-3)
+
+- [ ] Complete
+
+### Topics
+- Database, Table, Row, Column
+- CREATE DATABASE
+- CREATE TABLE
+- INSERT INTO
+- SELECT
+- WHERE
+- AND, OR, NOT
+- DISTINCT
+- ORDER BY
+- LIMIT
+
+### Outcome
+- Create databases and tables independently
+- Write basic queries without notes
+
+---
+
+## Phase 2: Aggregate Functions & Grouping (Days 4-5)
+
+- [ ] Complete
+
+### Topics
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+- GROUP BY
+- HAVING
+
+### Outcome
+- Generate summaries and reports from data
+
+---
+
+## Phase 3: Joins (Days 6-8)
+
+- [ ] Complete
+
+### Topics
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- SELF JOIN (Basic)
+
+### Outcome
+- Combine data from multiple tables confidently
+
+---
+
+## Phase 4: Subqueries & CASE (Days 9-10)
+
+- [ ] Complete
+
+### Topics
+- Single-row Subqueries
+- Multi-row Subqueries
+- Nested Queries
+- CASE Statements
+
+### Outcome
+- Solve intermediate SQL interview questions
+
+---
+
+## Phase 5: Window Functions (Days 11-12)
+
+- [ ] Complete
+
+### Topics
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- PARTITION BY
+
+### Outcome
+- Solve advanced reporting and ranking problems
+
+---
+
+## Phase 6: SQL Problem Solving (Days 13-15)
+
+- [ ] Complete
+
+### Practice
+- HackerRank SQL
+- LeetCode SQL 50
+- Custom Practice Questions
 
 ### Target
-- [ ] 100+ SQL problems solved
-- [ ] Strong understanding of querying, filtering, aggregation, joins, and window functions
-- [ ] Ready for Data Science / AI Engineer interview SQL rounds
+- 100+ SQL Problems Solved
 
+### Outcome
+- Comfortable writing SQL independently
+- Ready for interview-level SQL questions
 
-###### Phase 1: SQL Fundamentals ######
-## SELECT
-- [ ] SELECT *
-- [ ] SELECT specific columns
-- [ ] Aliases (AS)
+---
 
-### Practice Goal
-- [ ] 10 Questions
-------------------------------
-## Filtering Data
-- [ ] WHERE
-- [ ] AND
-- [ ] OR
-- [ ] NOT
-- [ ] IN
-- [ ] BETWEEN
-- [ ] LIKE
-- [ ] IS NULL
+# SQL Completion Checklist
 
-### Practice Goal
-- [ ] 15 Questions
------------------------------
-## Sorting & Limiting
-- [ ] ORDER BY
-- [ ] ASC
-- [ ] DESC
-- [ ] LIMIT
+- [ ] SQL Fundamentals
+- [ ] Aggregate Functions & Grouping
+- [ ] Joins
+- [ ] Subqueries & CASE
+- [ ] Window Functions
+- [ ] SQL Problem Solving
 
-### Practice Goal
-- [ ] 10 Questions
------------------------------
-## DISTINCT
-- [ ] DISTINCT values
+---
 
-### Practice Goal
-- [ ] 5 Questions
--------------------------------------
-###### Phase 2: Aggregate Functions ######
+# Completion Criteria
 
-- [ ] COUNT()
-- [ ] SUM()
-- [ ] AVG()
-- [ ] MIN()
-- [ ] MAX()
+I can confidently:
 
-### Practice Goal
-- [ ] 15 Questions
--------------------------------------
-###### Phase 3: GROUP BY & HAVING ######
-- [ ] GROUP BY
-- [ ] HAVING
-- [ ] Aggregate Filtering
-
-### Practice Goal
-- [ ] 15 Questions
--------------------------------------
-###### Phase 4: JOINS ######
-## INNER JOIN
-- [ ] Learn Concept
-- [ ] Practice Queries
-
-## LEFT JOIN
-- [ ] Learn Concept
-- [ ] Practice Queries
-
-## RIGHT JOIN
-- [ ] Learn Concept
-- [ ] Practice Queries
-
-## SELF JOIN
-- [ ] Basic Understanding
-
-### Practice Goal
-- [ ] 20 Questions
----------------------------------------
-###### Phase 5: Subqueries ######
-- [ ] Single Row Subquery
-- [ ] Multi Row Subquery
-- [ ] Nested Queries
-
-### Practice Goal
-- [ ] 10 Questions
----------------------------------------
-###### Phase 6: CASE Statements ######
-- [ ] CASE
-- [ ] Conditional Columns
-
-### Practice Goal
-- [ ] 5 Questions
----------------------------------------
-###### Phase 7: Window Functions ######
-## ROW_NUMBER()
-- [ ] Learn
-- [ ] Practice
-
-## RANK()
-- [ ] Learn
-- [ ] Practice
-
-## DENSE_RANK()
-- [ ] Learn
-- [ ] Practice
-
-## PARTITION BY
-- [ ] Learn
-- [ ] Practice
-
-### Practice Goal
-- [ ] 15 Questions
------------------------------------------------------------
-###### Mini Projects ######
-#### Project 1: Student Database ####
-- [ ] Create Table
-- [ ] Insert Records
-- [ ] Query Records
-
-###### Project 2: Employee Management Database ######
-- [ ] Multiple Tables
-- [ ] Use Joins
-- [ ] Generate Reports
-
-###### Project 3: E-Commerce Database ######
-- [ ] Customers Table
-- [ ] Products Table
-- [ ] Orders Table
-- [ ] Join-Based Reports
------------------------------------------------------------- ######## E N D ########------------------------------------------------------------------->>>>>>>>>>>>>>>
+- Create databases and tables
+- Insert and manage records
+- Filter and sort data
+- Use aggregate functions
+- Use GROUP BY and HAVING
+- Write JOIN queries
+- Write Subqueries
+- Use Window Functions
+- Solve medium-level SQL interview questions
+Internship
+↓
+AI Engineer / Applied AI Engineer
