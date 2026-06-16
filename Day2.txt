@@ -1,0 +1,16 @@
+Database & Table Fundamentals:-
+
+To Create Database: CREATE DATABASE DATABASE_NAME;
+To show databases: SHOW DATABASES;
+To use database: USE DATABASE_NAME;
+To create Table:---
+ CREATE TABLE TABLE_NAME(
+        attribute 1 datatype CONSTRAINTS,
+        attribute 2 datatype CONSTRAINTS,
+        attribute 3 datatype CONSTRAINTS
+);
+
+To describe table: DESC TABLE_NAME;
+To show tables in databse: SHOW TABLES;
+To completely remove tables: DROP TABLE TABLE_NAME;
+To delete records in table, remains structure: TRUNCATE TABLE TABLE_NAME;

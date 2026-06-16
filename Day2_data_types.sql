@@ -1,0 +1,10 @@
+CREATE DATABASE datatypes;
+USE datatypes;
+CREATE TABLE STUDENT_APPLICATION(
+stu_id INT PRIMARY KEY,
+stu_name VARCHAR(50),
+course VARCHAR(50),
+joining_date DATE,
+prev_sem_percent FLOAT
+);
+DESC STUDENT_APPLICATION;
