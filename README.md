@@ -63,7 +63,7 @@ Target:
 
 # Phase 3: Filtering & Sorting (Days 3-4)
 
-- [ ] Complete
+- [✓] Complete
 
 ## Topics
 
@@ -87,7 +87,7 @@ Target:
 
 # Phase 4: Aggregate Functions (Days 5-6)
 
-- [ ] Complete
+- [✓] Complete
 
 ## Topics
 
