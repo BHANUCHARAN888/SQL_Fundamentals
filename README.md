@@ -105,7 +105,7 @@ Target:
 
 # Phase 5: Grouping Data (Day 6)
 
-- [ ] Complete
+- [✓] Complete
 
 ## Topics
 
@@ -120,7 +120,7 @@ Target:
 
 # Phase 6: Joins (Days 7-8)
 
-- [ ] Complete
+- [✓] Complete
 
 ## Topics
 
