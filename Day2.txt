@@ -14,3 +14,16 @@ To describe table: DESC TABLE_NAME;
 To show tables in databse: SHOW TABLES;
 To completely remove tables: DROP TABLE TABLE_NAME;
 To delete records in table, remains structure: TRUNCATE TABLE TABLE_NAME;
+
+-------------------------------------------------------------
+Aggregate functions:
+# min()
+# max()
+# sum()
+# avg()
+---
+where, between, is not
+group by----having
+order by----limit----desc----asc
+---
+in, is null, is not null
