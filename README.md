@@ -1,4 +1,4 @@
-# SQL Roadmap (15 Days)
+# SQL Roadmap (11 Days)
 
 ## Goal
 
@@ -13,13 +13,12 @@ Become comfortable with SQL for:
 Target:
 
 - Write SQL without notes
-- Solve 100+ SQL problems
 - Analyze datasets confidently
 - Clear SQL interview rounds
 
 ---
 
-# Phase 1: Database Fundamentals (Days 1-2)
+# Phase 1: Database Fundamentals (Days 1)
 
 - [✓] Complete
 
@@ -44,7 +43,7 @@ Target:
 
 ---
 
-# Phase 2: CRUD Operations (Days 2-3)
+# Phase 2: CRUD Operations (Days 2)
 
 - [✓] Complete
 
@@ -61,7 +60,7 @@ Target:
 
 ---
 
-# Phase 3: Filtering & Sorting (Days 3-4)
+# Phase 3: Filtering & Sorting (Days 3)
 
 - [✓] Complete
 
@@ -85,7 +84,7 @@ Target:
 
 ---
 
-# Phase 4: Aggregate Functions (Days 5-6)
+# Phase 4: Aggregate Functions (Days 4)
 
 - [✓] Complete
 
@@ -103,7 +102,7 @@ Target:
 
 ---
 
-# Phase 5: Grouping Data (Day 6)
+# Phase 5: Grouping Data (Day 5)
 
 - [✓] Complete
 
@@ -118,7 +117,7 @@ Target:
 
 ---
 
-# Phase 6: Joins (Days 7-8)
+# Phase 6: Joins (Days 6-8)
 
 - [✓] Complete
 
@@ -138,7 +137,7 @@ Target:
 
 # Phase 7: SQL Functions (Day 9)
 
-- [ ] Complete
+- [✓] Complete
 
 ## String Functions
 
@@ -161,9 +160,9 @@ Target:
 
 ---
 
-# Phase 8: Subqueries (Day 10)
+# Phase 8: Subqueries (Day 9)
 
-- [ ] Complete
+- [✓] Complete
 
 ## Topics
 
@@ -177,9 +176,9 @@ Target:
 
 ---
 
-# Phase 9: CASE Statements (Day 11)
+# Phase 9: CASE Statements (Day 9)
 
-- [ ] Complete
+- [✓] Complete
 
 ## Topics
 
@@ -192,9 +191,9 @@ Target:
 
 ---
 
-# Phase 10: Window Functions (Days 12-13)
+# Phase 10: Window Functions (Days 10-11)
 
-- [ ] Complete
+- [✓] Complete
 
 ## Topics
 
@@ -206,76 +205,3 @@ Target:
 ## Outcome
 
 - Solve advanced SQL interview questions
-
----
-
-# Phase 11: SQL Problem Solving (Days 14-15)
-
-- [ ] Complete
-
-## Practice Platforms
-
-- HackerRank SQL
-- LeetCode SQL 50
-
-## Target
-
-- 100+ SQL Problems
-
-## Outcome
-
-- Comfortable solving SQL independently
-
----
-
-# Mini Projects
-
-- [ ] Student Database
-- [ ] Employee Management Database
-- [ ] E-Commerce Database
-
-Outcome:
-
-- Apply SQL concepts in realistic scenarios
-
----
-
-# SQL Completion Checklist
-
-- [ ] Database Fundamentals
-- [ ] CRUD Operations
-- [ ] Filtering & Sorting
-- [ ] Aggregate Functions
-- [ ] Grouping Data
-- [ ] Joins
-- [ ] SQL Functions
-- [ ] Subqueries
-- [ ] CASE Statements
-- [ ] Window Functions
-- [ ] SQL Problem Solving
-- [ ] Mini Projects
-
----
-
-# Completion Criteria
-
-I can confidently:
-
-- Create databases
-- Create tables
-- Insert records
-- Update records
-- Delete records
-- Filter data
-- Sort data
-- Use aggregate functions
-- Use GROUP BY and HAVING
-- Write JOIN queries
-- Use SQL functions
-- Write Subqueries
-- Use CASE statements
-- Use Window Functions
-- Solve medium-level SQL interview questions
-Internship
-↓
-AI Engineer / Applied AI Engineer
