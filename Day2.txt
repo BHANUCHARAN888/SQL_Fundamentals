@@ -27,3 +27,17 @@ group by----having
 order by----limit----desc----asc
 ---
 in, is null, is not null
+--------------------------------------------------------------
+Joins: 
+Inner joins - matching only
+Left joins - All left + matching right
+Right joins - All right + matching left
+--------------------------------------------------------------
+Advancecd SQL filtering:
+# As
+# AND, OR, NOT 
+# LIKE '_%' starts with, '%_' ends with, '%_%' contains  
+# LIMIT skip, start 
+--------------------------------------------------------------
+# UNION - combines and remove duplicates
+# UNION ALL - combines and keep duplicates 
